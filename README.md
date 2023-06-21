@@ -1,5 +1,4 @@
 # LendingClub_Predictive_Analytics
-This is my submission for a Predictive Analytics course I took which required building and testing SVM (Support Vector Machine) and Random Tree Forest Models. This project had us looking at Mortgage Data and training a model which would suggest interest rates to potential homebuyers based on financial history, job history 
 
 Excited to share my recent project on analyzing and predicting interest rates of loans using the modified LendingClub dataset. In this assignment, I embarked on the journey of exploring and preparing the data for predictive modeling. I leveraged Python and scikit-learn to train and compare different machine learning models, ultimately selecting the Support Vector Machine (SVM) model. To fine-tune the SVM model, I performed a grid search to identify the optimal hyperparameters. The results were impressive, demonstrating the power of SVM in predicting interest rates with accuracy and precision. After rigorous testing and evaluation, I confidently deployed the SVM model to predict interest rates for the sample loans in the LC_test_HW2.csv dataset.
 
